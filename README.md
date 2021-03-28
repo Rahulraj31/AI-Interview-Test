@@ -27,8 +27,8 @@ Selection in big companies requires an aspirant to be proficient in coding as we
 
 ### Requirements
 
-- Fast.ai library https://docs.fast.ai/install.html
-- Dlib https://www.pyimagesearch.com/2017/03/27/how-to-install-dlib/
+- [Fast.ai library](https://docs.fast.ai/install.html)
+- [Dlib](https://www.pyimagesearch.com/2017/03/27/how-to-install-dlib/)
 - Numpy
 - Scipy
 - IMutils
@@ -52,10 +52,21 @@ Additional tags:
 - --save to save video with predictions and landmarking
 - --savedata to save csv file with expression predictions, their probability tensor and eye aspect ratio
 
-### Stage 2 : Voice Recognition ( Coming Soon )
+### Stage 2 : Speech Emotion Recognition
 
+Speech Emotion Recognition, abbreviated as SER, is the act of attempting to recognize human emotion and affective states from speech. This is capitalizing on the fact that voice often reflects underlying emotion through tone and pitch.
+
+#### Datasets used in this project
+- -- Crowd-sourced Emotional Mutimodal Actors Dataset (Crema-D)
+- -- Ryerson Audio-Visual Database of Emotional Speech and Song (Ravdess)
+- -- Surrey Audio-Visual Expressed Emotion (Savee)
+- -- Toronto emotional speech set (Tess)
+
+#### Dataset : [Download](https://drive.google.com/drive/folders/1d_Yz9D0A5HXKrTr3N2nrpO8jP85iFxcb?usp=sharing)
+#### Model : [Download](https://drive.google.com/drive/folders/1oyEA82s3H22pO1FBjaSmnjg_KESpb4cK?usp=sharing)
 
 ## ❤️ Project Admin
+
 
 <table>
 	<tr>
