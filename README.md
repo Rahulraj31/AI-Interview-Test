@@ -70,7 +70,7 @@ Speech Emotion Recognition, abbreviated as SER, is the act of attempting to reco
 - Take a look at the Existing [Issues](https://github.com/CodeTrophs/AI-Interview-Test/issues) or create your own Issues!
 - Wait for the Issue to be assigned to you.
 - Fork the repository
-- Have a look at [Contibuting Guidelines](https://github.com/CodeTrophs/AI-Interview-Test/main/CONTRIBUTING.md)
+- Have a look at [Contibuting Guidelines](https://github.com/CodeTrophs/AI-Interview-Test/blob/main/CONTRIBUTING.md)
 
 
 ## ❤️ Project Admin
