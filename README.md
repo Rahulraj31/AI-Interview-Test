@@ -65,6 +65,14 @@ Speech Emotion Recognition, abbreviated as SER, is the act of attempting to reco
 #### Dataset : [Download](https://drive.google.com/drive/folders/1d_Yz9D0A5HXKrTr3N2nrpO8jP85iFxcb?usp=sharing)
 #### Model : [Download](https://drive.google.com/drive/folders/1oyEA82s3H22pO1FBjaSmnjg_KESpb4cK?usp=sharing)
 
+## How to Contribute to AI Interview Preparation?
+
+- Take a look at the Existing [Issues](https://github.com/CodeTrophs/AI-Interview-Test/issues) or create your own Issues!
+- Wait for the Issue to be assigned to you.
+- Fork the repository
+- Have a look at [Contibuting Guidelines](https://github.com/CodeTrophs/AI-Interview-Test/main/CONTRIBUTING.md)
+
+
 ## ❤️ Project Admin
 
 
